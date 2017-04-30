@@ -1,9 +1,9 @@
-
-
-
-
-
-
-
+Hello! How are you doing?
+These lines are ignored
+by the Raptor Launcher,
+but we keep them here
+to maintain quasi-compatibility
+with the news format used
+by the Furcadia client itself.
 NewsDate 2017-05-01 00:00:00
 NewsEntry May 1, 2017	0	Raptor Launcher	 PRE-ALPHA NEWS BEING TESTED!	This is a test message. If you can see it, then news work in the Raptor Launcher!	https://raptorlauncher.github.io/	https://raptorlauncher.github.io/news/launcher0001.png
