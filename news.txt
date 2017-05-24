@@ -6,5 +6,6 @@ to maintain quasi-compatibility
 with the news format used
 by the Furcadia client itself.
 NewsDate 2017-05-08 14:00:00
+NewsEntry May 24, 2017	0	Raptor Launcher	 VERSION 0.3.1 IS READY AND OUT!	Version 0.3.1 is out, bringing bugfixes, Windows 10 Creators Update support and Pounce integration!	https://raptorlauncher.github.io/	https://raptorlauncher.github.io/news/launcher0003.png
 NewsEntry May 8, 2017	0	Raptor Launcher	 VERSION 0.3 IS READY AND OUT!	Version 0.3 is out, bringing per-character images, multilaunch and more!	https://raptorlauncher.github.io/	https://raptorlauncher.github.io/news/launcher0002.png
 NewsEntry May 1, 2017	0	Raptor Launcher	 PRE-ALPHA NEWS BEING TESTED!	This is a test message. If you can see it, then news work in the Raptor Launcher!	https://raptorlauncher.github.io/	https://raptorlauncher.github.io/news/launcher0001.png
